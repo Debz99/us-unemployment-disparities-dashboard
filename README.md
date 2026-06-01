@@ -1,1 +1,1 @@
-•	Built an interactive Power BI dashboard modeling labor market trends across demographic segments (2000–2025) using BLS data, engineering a custom Shock Sensitivity Index data model to quantify baseline deviations and surface actionable insights for policymaker audiences.
+Built an interactive Power BI dashboard modeling labor market trends across demographic segments (2000–2025) using BLS data, engineering a custom Shock Sensitivity Index data model to quantify baseline deviations and surface actionable insights for policymaker audiences.
